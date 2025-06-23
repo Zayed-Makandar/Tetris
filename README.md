@@ -1,7 +1,7 @@
 # Tetris
 
 # Main Menu
-<img src="C:\Users\crims\OneDrive\Pictures\Screenshots\Tetris Main Menu.png" height=600 width =600>
+<img src="Tetris Main Menu.png" height=600 width =600>
 
 # Instructions Page
 <img src="images/instructions.png" height=600 width =600>
