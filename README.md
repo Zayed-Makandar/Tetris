@@ -10,7 +10,7 @@
 <img src="Tetris Game.png" height=600 width =600>
 
 # Game over Window
-<img src="Tetris Gameover" height=600 width =600>
+<img src="Tetris Gameover.png" height=600 width =600>
 
 # Shapes Used
 <img src="shapes.png" height=600 width =600>
